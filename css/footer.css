@@ -35,6 +35,11 @@
   color: #8f8f8f;
 }
 
+.footer-redes {
+  display: flex;
+  gap: 32px;
+}
+
 .footer-copy {
   grid-column: 1 / -1;
   font-size: 1.125rem;
